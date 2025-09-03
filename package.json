@@ -1,16 +1,16 @@
 {
-  "name": "@killjoycircuit/gitprofile",
+  "name": "@arifszn/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "4.0.0",
   "type": "module",
   "license": "MIT",
-  "author": "killjoycircuit",
+  "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/killjoycircuit/gitprofile.git"
+    "url": "https://github.com/arifszn/gitprofile.git"
   },
   "bugs": {
-    "url": "https://github.com/killjoycircuit/gitprofile/issues"
+    "url": "https://github.com/arifszn/gitprofile/issues"
   },
   "scripts": {
     "dev": "vite",
@@ -26,7 +26,7 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@killjoycircuit/blog-js": "^2.0.6",
+    "@arifszn/blog-js": "^2.0.6",
     "@tailwindcss/postcss": "^4.1.11",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
